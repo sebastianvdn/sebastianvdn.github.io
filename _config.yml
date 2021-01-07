@@ -3,7 +3,7 @@
 title: Hyunsik_Dev
 logo: # You can add own logo. For example '/images/logo.png'.
 description: Aditu is a stylish and modern dark theme with a clean and unique design.
-baseurl: "" # The subpath of your site, e.g. /blog
+baseurl: "/" # The subpath of your site, e.g. /blog
 url: "https://sebastianvdn.github.io" # The base hostname & protocol for your site, e.g. http://example.com
 
 
@@ -47,7 +47,7 @@ social:
 
 #-------------------------------
 # Comment Section (Disqus)
-disqus-identifier: mr-brown # Add your shortname for Disqus Comment. For example mr-brown
+disqus-identifier:  # Add your shortname for Disqus Comment. For example mr-brown
 
 
 #-------------------------------
