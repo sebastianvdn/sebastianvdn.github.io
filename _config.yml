@@ -1,8 +1,8 @@
 #-------------------------------
 # General Site Settings
-title: Hyunsik_Dev
+title: Sebastian Van Den Noorgaete
 logo: # You can add own logo. For example '/images/logo.png'.
-description: Aditu is a stylish and modern dark theme with a clean and unique design.
+description: Changing for the good.
 baseurl: "/" # The subpath of your site, e.g. /blog
 url: "https://sebastianvdn.github.io" # The base hostname & protocol for your site, e.g. http://example.com
 
@@ -10,8 +10,8 @@ url: "https://sebastianvdn.github.io" # The base hostname & protocol for your si
 #-------------------------------
 # Author Settings
 author:
-  name: Hyunsik
-  avatar: '/images/15.jpg'
+  name: Sebastian
+  avatar: '/images/sebastian.jpg'
 
 
 #-------------------------------
@@ -37,12 +37,8 @@ contact:
 # Example of adding a new link to the footer - {icon: "ion-logo-github", link: "https://github.com"}
 # Other icons can be found at https://ionicons.com
 social:
-- {icon: "ion-logo-twitter", link: "https://twitter.com"}
-- {icon: "ion-logo-facebook", link: "https://facebook.com"}
-- {icon: "ion-logo-dribbble", link: "https://dribbble.com"}
-- {icon: "ion-logo-instagram", link: "https://instagram.com"}
-- {icon: "ion-logo-pinterest", link: "https://pinterest.com"}
-- {icon: "ion ion-logo-github", link: "https://github.com/hs95blue"}
+- {icon: "ion-logo-facebook", link: "https://facebook.com/bgan.be"}
+- {icon: "ion-logo-instagram", link: "https://instagram.com/bgan.be"}
 
 
 #-------------------------------
