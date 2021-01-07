@@ -1,0 +1,19 @@
+[
+  
+    {
+      "title"    : "Example",
+      "category" : "",
+      "tags"     : "Money",
+      "url"      : "//2018/11/13/test2/",
+      "date"     : "Nov 13, 2018"
+    } ,
+  
+    {
+      "title"    : "Example",
+      "category" : "",
+      "tags"     : "Money",
+      "url"      : "//2018/11/13/test/",
+      "date"     : "Nov 13, 2018"
+    } 
+  
+]
