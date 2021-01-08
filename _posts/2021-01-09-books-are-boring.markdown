@@ -82,6 +82,7 @@ This one might sound logic and sh** but you would be amazed by how many people w
 
 When I started with my journey on growing as a human being, I got the book [*think and grow rich*](https://amzn.to/3s1IVYV) *by Napoleon Hill*. (Thanks sis)
 ![enter image description here](https://lifeskills.ge/wp-content/uploads/2019/08/Think-and-Rich-Rich-1024x512.png)
+
 Great man, but his book was way too **complicated** to read as my first book. I was not ready to receive the information shipped with the book either.
 
 As a result, I left it alone and didn't do anything with the valuable information shipped with the book until 6 months later.
