@@ -99,4 +99,4 @@ Business
 
 The body.
 
-You get it, only read books that you are **excited** about.
+You get it.
