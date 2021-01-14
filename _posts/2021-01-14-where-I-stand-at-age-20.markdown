@@ -38,6 +38,6 @@ Let's not make this list too long. These are the things I came up with now, thes
 
 I will stake even existence for the accomplishments of these goals.
 
-Do this to, write down what you want to accomplish this year.
+Do this too, write down what you want to accomplish this year.
 
 Sebastian
